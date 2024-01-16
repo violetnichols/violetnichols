@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @violetnichols
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning the basics of html, css, and js
-- 💞️ I’m looking to collaborate on beginner friendly open-source projects
-- 📫 How to reach me Cold#2691 on Discord
+- 👀 I’m interested in web and hardware development
+- 🌱 I’m currently learning the basics of html, css, js, and C!
+- 💞️ I’m looking to collaborate on beginner-friendly open-source projects
 
 <!---
 violetnichols/violetnichols is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
